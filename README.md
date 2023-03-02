@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning at microverse
 - 💞️ I’m looking to collaborate on HTML/CSS and JS projects
 - 📫 You can reach me through: Kamrankhan.ahmad2@yahoo.com
+- I am open to new opportunities 
 
 <!---
 kamranahmad123/kamranahmad123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
